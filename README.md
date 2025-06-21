@@ -1,4 +1,4 @@
-[![CI/CD Pipeline](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml/badge.svg)](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml)
+[![CI/CD Pipeline](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml)
 
 # virtualfake
 
