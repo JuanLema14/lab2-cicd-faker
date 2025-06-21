@@ -1,4 +1,5 @@
-[![CI/CD Pipeline](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml/badge.svg)](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml)
+[![CI/CD Pipeline](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml/badge.svg)](https://github.com/JuanLema14/lab2-cicd-faker/actions/workflows/build.yml) 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuanLema14_lab2-cicd-faker&metric=alert_status&token=dfd9de4bb910358c5f750e5b300fad44f6a798a4)](https://sonarcloud.io/summary/new_code?id=JuanLema14_lab2-cicd-faker)
 
 # virtualfake
 
