@@ -20,6 +20,7 @@
 		<sonar.projectKey>JuanLema14_lab2-cicd-faker</sonar.projectKey>
 		<sonar.organization>juanlema14</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>JuanLema14_lab2-cicd-faker</sonar.projectKey>
 		<sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
 	<dependencies>
@@ -69,7 +70,7 @@
 			</plugin>
 		</plugins>
 
-
+    <finalName>lab2-cicd-faker</finalName>
 	</build>
 
 </project>

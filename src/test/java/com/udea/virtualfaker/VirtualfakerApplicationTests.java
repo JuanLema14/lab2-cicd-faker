@@ -40,7 +40,6 @@ class VirtualfakerApplicationTests {
 
 	@Test
 	void testRandomCurrenciesCodeFormat(){
-		DataController dataController = new DataController();
 		JsonNode response = dataController.getRandomCurrencies();
 
 		for(int i = 0; i < response.size(); i++){
