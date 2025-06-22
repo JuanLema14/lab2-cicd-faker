@@ -15,7 +15,6 @@
 
 Implementation of a Simple App with the next operations:
 
-Methods:
 * Get random nations
 * Get random currencies
 * Get random Aircraft
