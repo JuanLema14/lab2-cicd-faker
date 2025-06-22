@@ -8,6 +8,6 @@ RUN mvn clean package -DskipTests
 FROM openjdk:11-jdk-slim
 WORKDIR /app
 # Copia el JAR de la etapa 'build' a la etapa actual
-COPY --from=build /app/target/lab2-cicd-faker.jar lab2-cicd-faker.jar
+COPY --from=build /app/target/lab2-cicd-faker.jar virtualfake.jar
 EXPOSE 8080
 ENTRYPOINT ["java","-jar","virtualfake.jar"]
